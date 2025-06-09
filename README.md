@@ -1,4 +1,4 @@
-# Hi, I'm Shyle — Computational Designer & AEC Technologist
+# Hi, I'm Shylesh — Computational Designer | AEC Technologist | Architect
 
 I'm an architect-turned-developer with a Master's in Parametric Design. I specialize in creating data-driven, geometry-intensive, and automation-focused solutions for the AEC industry — from fabrication to immersive applications. I work at the intersection of design, computation, and technology.
 
