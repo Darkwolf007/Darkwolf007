@@ -7,7 +7,7 @@ I'm an architect-turned-developer with a Master's in Parametric Design. I specia
 ## 🔧 Tools & Technologies
 
 **Programming & Scripting**  
-`C#` `C++` `Python` `RhinoCommon` `GH Python` `P/Invoke` `Node.js`  
+`C#` `Python` `RhinoCommon` `GH Python` `Node.js`  
 
 **Design & Simulation Platforms**  
 `Grasshopper` `Rhino 3D` `Revit API` `Autodesk Platform Services (APS)` `Unity`  
@@ -22,28 +22,24 @@ I'm an architect-turned-developer with a Master's in Parametric Design. I specia
 
 ## 🔩 Key Projects
 
-- **CGAL Grasshopper Wrapper**  
+- **CGALWrapper**  
   Native integration of CGAL algorithms (OBB, polygon partitioning, straight skeleton) in Grasshopper using custom DLLs and P/Invoke for advanced geometry workflows.
 
-- **Autodesk Construction Cloud BIM Tool**  
-  Built a user management and automation plugin that syncs Power BI inputs with APS APIs for BIM teams.
+- **Spatial Intelligence in Real Estate**  
+   Predicition model built on geospatial variance and housing price dataset.
 
-- **Geometry Central Port to Grasshopper**  
-  Ported the stripe pattern system from Geometry Central (C++) to Rhino/GH with interactive control.
+- **sql_chatbot_pack**  
+  PDF dataset to chatbot, the pdf dataset is broken down to semantic vector embedding which is queried using LLM
 
 - **Modular Fabrication Toolkit**  
   A parametric system for generating fabricatable parts for robotic assembly using custom toolchains.
 
-- **Immersive Room Experiences**  
-  Experimental Unity applications that connect Grasshopper logic with VR spaces for spatial feedback.
+- **Immersive Mahabalipuram*  
+  Experimental application built on photogrammetry dataset and gaussian splatting, optimized and rendered on web.
 
 ---
 
 ## 📈 GitHub Stats
-
-![Shyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=shylex&show_icons=true&theme=default&hide=prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shylex&layout=compact)](https://github.com/shylex)
 
 ---
 
