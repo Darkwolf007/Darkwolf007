@@ -28,11 +28,11 @@ Git · Docker · Azure DevOps · REST APIs
 ## Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&hide_title=true&count_private=true&bg_color=ffffff&text_color=444444&border_color=dddddd"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&hide_title=true&count_private=true&bg_color=ffffff&text_color=444444&border_color=dddddd" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&bg_color=ffffff&text_color=444444&border_color=dddddd"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&bg_color=ffffff&text_color=444444&border_color=dddddd" />
 </p>
 
 ---
