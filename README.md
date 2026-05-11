@@ -4,6 +4,36 @@ Computational Designer — AEC Technologist — Architect
 Architect-turned-developer focused on computational design, geometry, and automation workflows for the AEC industry.
 
 ---
+## Focus
+
+> **Computational Geometry · AEC Automation · Digital Fabrication · Computational Design · ML Systems**
+
+## Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shyleshkumar007/" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://shylesh-kumar.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
+  <img src="https://user-images.githubusercontent.com/54688438/74624141-54609400-5115-11ea-88d2-c1428bac6bdf.png" width="30"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/shylesh_dw/" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://openprocessing.org/@u204730#sketches" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/ffffff/javascript.png"/>
+</a>
+
+</p>
+
 
 ## Tools
 
@@ -35,38 +65,6 @@ mindmap
       Git
       Docker
 ```
-
-## Overview
-
-## Focus
-
-> **Computational Geometry · AEC Automation · Digital Fabrication · Computational Design · ML Systems**
-
-## Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shyleshkumar007/" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://shylesh-kumar.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://user-images.githubusercontent.com/54688438/74624141-54609400-5115-11ea-88d2-c1428bac6bdf.png" width="30"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/shylesh_dw/" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://openprocessing.org/@u204730#sketches" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/ffffff/javascript.png"/>
-</a>
-
-</p>
 
 ## Work
 
