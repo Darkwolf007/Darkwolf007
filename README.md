@@ -39,11 +39,32 @@ mindmap
 
 ## Overview
 
-| Focus | Contact |
-|-------|--------|
-| Computational Geometry<br>AEC Automation<br>Digital Fabrication<br>Spatial Data Systems<br>Real-time Systems | [Portfolio](https://shylesh-kumar.netlify.app/)<br>[LinkedIn](https://www.linkedin.com/in/shyleshkumar007/)<br>[Upwork](https://www.upwork.com/freelancers/~012a5d23186dc641eb) |
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+**Focus**  
+Computational Geometry  
+AEC Automation  
+Digital Fabrication  
+Spatial Data Systems  
+Real-time Systems  
+
+</td>
+
+<td width="35%" valign="top">
+
+**Contact**  
+<a href="https://shylesh-kumar.netlify.app/">Portfolio</a>  
+<a href="https://www.linkedin.com/in/shyleshkumar007/">LinkedIn</a>  
+<a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb">Upwork</a>  
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ## Work
 
