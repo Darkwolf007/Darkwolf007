@@ -25,6 +25,7 @@ Git · Docker · Azure DevOps · REST APIs
 | https://github.com/Darkwolf007 | Modular Fabrication Toolkit — parametric system for robotic fabrication | Work in Progress | C# · Grasshopper |
 
 ---
+
 ## Stats
 
 <p align="left">
@@ -40,7 +41,7 @@ Git · Docker · Azure DevOps · REST APIs
 ## Activity
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=minimal&bg_color=ffffff&color=555555&line=888888&point=aaaaaa&area=false"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=minimal&bg_color=ffffff&color=555555&line=888888&point=aaaaaa&area=false" />
 </p>
 
 ---
