@@ -28,7 +28,7 @@ Architect-turned-developer focused on computational design, geometry, and automa
 ## Stats
 
 <p align="center">
-  https://streak-stats.demolab.com?user=Darkwolf007&theme=github-dark
+  <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=github-dark" />
 </p>
 
 ---
@@ -36,5 +36,5 @@ Architect-turned-developer focused on computational design, geometry, and automa
 ## Activity
 
 <p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=github-dark&bg_color=00000000&color=00aa55&line=00cc66&point=00ff88&area=false
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=github-dark&bg_color=00000000&color=00aa55&line=00cc66&point=00ff88&area=false" />
 </p>
