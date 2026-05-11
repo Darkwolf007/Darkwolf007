@@ -1,49 +1,95 @@
-# Hi, I'm Shylesh — Computational Designer | AEC Technologist | Architect
+# Hi, I'm Shylesh 👋
+**Computational Designer | AEC Technologist | Architect**
 
-I'm an architect-turned-developer with a Master's in Parametric Design. I specialize in creating data-driven, geometry-intensive, and automation-focused solutions for the AEC industry — from fabrication to immersive applications. I work at the intersection of design, computation, and technology.
+I’m an architect-turned-developer with a Master's in Parametric Design, specializing in **data-driven, geometry-intensive, and automation-focused solutions** for the AEC industry — from digital fabrication to immersive applications.
+
+I work at the intersection of **design, computation, and technology**.
 
 ---
 
 ## 🔧 Tools & Technologies
 
-**Programming & Scripting**  
-`C#` `Python` `RhinoCommon` `GH Python` `Node.js`  
+### 💻 Programming & Scripting  
+`C#` • `Python` • `RhinoCommon` • `GH Python` • `Node.js`
 
-**Design & Simulation Platforms**  
-`Grasshopper` `Rhino 3D` `Revit API` `Autodesk Platform Services (APS)` `Unity`  
+### 🏗 Design & Simulation  
+`Grasshopper` • `Rhino 3D` • `Revit API` • `Autodesk Platform Services (APS)` • `Unity`
 
-**Geometry & Algorithms**  
-`CGAL` `Geometry Central` `OpenMesh` `MeshLib` `OpenCV`  
+### 📐 Geometry & Algorithms  
+`CGAL` • `Geometry Central` • `OpenMesh` • `MeshLib` • `OpenCV`
 
-**Cloud & DevOps**  
-`Git` `GitHub Actions` `Azure DevOps` `vcpkg` `Docker` `REST APIs`
+### ☁️ Cloud & DevOps  
+`Git` • `GitHub Actions` • `Azure DevOps` • `Docker` • `REST APIs`
 
 ---
 
 ## 🔩 Key Projects
 
-- **CGALWrapper**  
-  Native integration of CGAL algorithms (OBB, polygon partitioning, straight skeleton) in Grasshopper using custom DLLs and P/Invoke for advanced geometry workflows.
-
-- **Spatial Intelligence in Real Estate**  
-   Predicition model built on geospatial variance and housing price dataset.
-
-- **sql_chatbot_pack**  
-  PDF dataset to chatbot, the pdf dataset is broken down to semantic vector embedding which is queried using LLM
-
-- **Modular Fabrication Toolkit**  
-  A parametric system for generating fabricatable parts for robotic assembly using custom toolchains.
-
-- **Immersive Mahabalipuram*  
-  Experimental application built on photogrammetry dataset and gaussian splatting, optimized and rendered on web.
+### 🧮 CGALWrapper  
+Advanced geometry workflows in Grasshopper using CGAL via custom DLLs + P/Invoke  
+🔗 https://github.com/YOUR_USERNAME/CGALWrapper  
 
 ---
 
-## 📈 GitHub Stats
+### 🏙 Spatial Intelligence in Real Estate  
+Geospatial variance-based housing price prediction model  
+🔗 https://github.com/YOUR_USERNAME/real-estate-spatial-intelligence  
 
 ---
 
-## Let's Collaborate
+### 🤖 sql_chatbot_pack  
+Convert PDF datasets into semantic embeddings and query using LLMs  
+🔗 https://github.com/YOUR_USERNAME/sql_chatbot_pack  
 
-If you're working on tools, research, or products at the edge of computation and spatial design — feel free to reach out. I’m always open to creative and technical collaborations.
+---
 
+### 🧩 Modular Fabrication Toolkit  
+Parametric system for generating robotic fabrication-ready components  
+🔗 https://github.com/YOUR_USERNAME/modular-fabrication-toolkit  
+
+---
+
+### 🌐 Immersive Mahabalipuram  
+Photogrammetry + Gaussian splatting web experience  
+🔗 https://github.com/YOUR_USERNAME/immersive-mahabalipuram  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Areas of Interest
+
+- Computational Geometry  
+- AEC Automation  
+- Digital Fabrication  
+- Spatial Data Intelligence  
+- Immersive Web / Real-time Engines  
+
+---
+
+## 🤝 Let's Collaborate
+
+If you're building tools, research, or products at the edge of **computation and spatial design**, let’s connect.
+
+📬 Reach out via GitHub or LinkedIn  
+
+---
+
+## ⚡ Fun Fact
+
+I love bridging **heavy geometry algorithms with real-world AEC workflows** 🚀
