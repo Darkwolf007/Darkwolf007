@@ -44,24 +44,27 @@ Computational Geometry · AEC Automation · Digital Fabrication · Spatial Data 
 
 <p align="left">
 
-<a href="https://shylesh-kumar.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="28"/>
+https://openprocessing.org/@u204730#sketches
+  https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg
 </a>
 
-<a href="https://www.linkedin.com/in/shyleshkumar007/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28"/>
+https://www.linkedin.com/in/shyleshkumar007/
+  https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
 </a>
 
-<a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" width="28"/>
+https://www.instagram.com/shylesh_dw/
+  https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg
 </a>
 
-<a href="https://openprocessing.org/@u204730#sketches" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/code.png" width="28"/>
+https://shylesh-kumar.netlify.app/
+  https://img.icons8.com/ios-filled/50/ffffff/domain.png
+</a>
+
+https://www.upwork.com/freelancers/~012a5d23186dc641eb
+  https://img.icons8.com/ios-filled/50/ffffff/upwork.png
 </a>
 
 </p>
-
 
 
 ## Work
