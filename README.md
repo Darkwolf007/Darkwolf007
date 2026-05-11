@@ -10,29 +10,39 @@ Architect-turned-developer focused on computational design, geometry, and automa
 ```mermaid
 mindmap
   root((Tech))
+
     ((Programming))
       C#
       Python
       Node.js
+
     ((AEC Platforms))
       Grasshopper
       Rhino
       Revit API
-      APS
+      Autodesk Platform Services
       Unity
-    ((Geometry))
+
+    ((Computational Geometry))
       CGAL
       OpenMesh
       Geometry Central
       OpenCV
-    ((DevOps))
-      Git
-      Docker
-      Azure DevOps
-    ((Workflows))
+
+    ((Automation & Scripting))
       RhinoCommon
       GH Python
       REST APIs
+
+    ((Data & Intelligence))
+      Spatial Analysis
+      Machine Learning
+      Data Pipelines
+
+    ((DevOps & Deployment))
+      Git
+      Docker
+      Azure DevOps
 ```
 
 ## Overview
