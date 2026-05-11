@@ -38,7 +38,7 @@ mindmap
 ## Overview
 
 **Focus**  
-Computational Geometry · AEC Automation · Digital Fabrication · Spatial Data Systems · Real-time Systems  
+Computational Geometry · AEC Automation · Digital Fabrication · Computational Design · ML System
 
 ## Connect
 
