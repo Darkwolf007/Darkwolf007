@@ -4,6 +4,38 @@ Computational Designer — AEC Technologist — Architect
 Architect-turned-developer focused on computational design, geometry, and automation workflows for the AEC industry.
 
 ---
+##Tools
+
+
+## Tools
+
+mermaid
+mindmap
+  root((Tech))
+    ((Programming))
+      C#
+      Python
+      Node.js
+    ((AEC Platforms))
+      Grasshopper
+      Rhino
+      Revit API
+      APS
+      Unity
+    ((Geometry))
+      CGAL
+      OpenMesh
+      Geometry Central
+      OpenCV
+    ((DevOps))
+      Git
+      Docker
+      Azure DevOps
+    ((Workflows))
+      RhinoCommon
+      GH Python
+      REST APIs
+---
 
 ## Overview
 
