@@ -4,12 +4,10 @@ Computational Designer — AEC Technologist — Architect
 Architect-turned-developer focused on computational design, geometry, and automation workflows for the AEC industry.
 
 ---
-##Tools
-
 
 ## Tools
 
-mermaid
+```mermaid
 mindmap
   root((Tech))
     ((Programming))
@@ -35,6 +33,8 @@ mindmap
       RhinoCommon
       GH Python
       REST APIs
+```
+
 ---
 
 ## Overview
