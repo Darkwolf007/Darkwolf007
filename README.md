@@ -45,7 +45,7 @@ Computational Geometry · AEC Automation · Digital Fabrication · Spatial Data 
 <p align="left">
 
 <a href="https://openprocessing.org/@u204730#sketches" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="32" />
+  <img src="https://www.flaticon.com/free-icons/javascript" width="32" />
 </a>
 
 <a href="https://www.linkedin.com/in/shyleshkumar007/" target="_blank">
