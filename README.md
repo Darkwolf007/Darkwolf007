@@ -35,36 +35,18 @@ mindmap
       REST APIs
 ```
 
----
-
 ## Overview
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
 **Focus**  
-Computational Geometry  
-AEC Automation  
-Digital Fabrication  
-Spatial Data Systems  
-Real-time Systems  
-
-</td>
-
-<td width="35%" valign="top">
+Computational Geometry · AEC Automation · Digital Fabrication · Spatial Data Systems · Real-time Systems  
 
 **Contact**  
-<a href="https://shylesh-kumar.netlify.app/">Portfolio</a>  
-<a href="https://www.linkedin.com/in/shyleshkumar007/">LinkedIn</a>  
-<a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb">Upwork</a>  
-
-</td>
-</tr>
-</table>
+Portfolio — https://shylesh-kumar.netlify.app/  
+LinkedIn — https://www.linkedin.com/in/shyleshkumar007/  
+Upwork — https://www.upwork.com/freelancers/~012a5d23186dc641eb  
 
 ---
-
+``
 
 ## Work
 
