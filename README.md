@@ -11,38 +11,29 @@ Architect-turned-developer focused on computational design, geometry, and automa
 mindmap
   root((Tech))
 
-    ((Programming))
+    ((Code))
       C#
       Python
       Node.js
 
-    ((AEC Platforms))
+    ((AEC))
       Grasshopper
       Rhino
       Revit API
-      Autodesk Platform Services
-      Unity
 
-    ((Computational Geometry))
+    ((Geometry))
       CGAL
       OpenMesh
-      Geometry Central
       OpenCV
 
-    ((Automation & Scripting))
+    ((Systems))
       RhinoCommon
-      GH Python
-      REST APIs
+      APIs
+      Automation
 
-    ((Data & Intelligence))
-      Spatial Analysis
-      Machine Learning
-      Data Pipelines
-
-    ((DevOps & Deployment))
+    ((DevOps))
       Git
       Docker
-      Azure DevOps
 ```
 
 ## Overview
