@@ -40,31 +40,7 @@ mindmap
 **Focus**  
 Computational Geometry · AEC Automation · Digital Fabrication · Spatial Data Systems · Real-time Systems  
 
-## Connect
 
-<p align="left">
-
-https://openprocessing.org/@u204730#sketches
-  https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg
-</a>
-
-https://www.linkedin.com/in/shyleshkumar007/
-  https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
-</a>
-
-https://www.instagram.com/shylesh_dw/
-  https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg
-</a>
-
-https://shylesh-kumar.netlify.app/
-  https://img.icons8.com/ios-filled/50/ffffff/domain.png
-</a>
-
-https://www.upwork.com/freelancers/~012a5d23186dc641eb
-  https://img.icons8.com/ios-filled/50/ffffff/upwork.png
-</a>
-
-</p>
 
 
 ## Work
