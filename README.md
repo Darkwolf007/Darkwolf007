@@ -28,10 +28,17 @@ Git · Docker · Azure DevOps · REST APIs
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&hide_title=true&count_private=true&bg_color=ffffff&text_color=444444&border_color=dddddd" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&hide_title=true&count_private=true&bg_color=ffffff&text_color=444444&border_color=dddddd" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&bg_color=ffffff&text_color=444444&border_color=dddddd" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&bg_color=ffffff&text_color=444444&border_color=dddddd" />
+</p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=tokyonight" />
+</p>
 ---
 
 ## Activity
@@ -55,4 +62,4 @@ Real-time Systems
 [Personal Site](https://shylesh-kumar.netlify.app/)  
 [LinkedIn](https://www.linkedin.com/in/shyleshkumar007/)  
 [Upwork](https://www.upwork.com/freelancers/~012a5d23186dc641eb)
-``
+
