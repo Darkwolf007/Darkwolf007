@@ -34,7 +34,7 @@ Git · Docker · Azure DevOps · REST APIs
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=github&bg_color=ffffff&color=444444&line=888888&point=aaaaaa&area=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=github-dark&bg_color=00000000&color=00aa55&line=00cc66&point=00ff88&area=false" />
 
 ---
 
