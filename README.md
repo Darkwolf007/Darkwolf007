@@ -18,34 +18,31 @@ Git · Docker · Azure DevOps · REST APIs
 
 ### Completed
 
-| Spatial Intelligence | Immersive Mahabalipuram |
-|---------------------|-------------------------|
-| Geospatial housing prediction system | Photogrammetry + Gaussian splatting |
-| Dubai housing dataset analysis | Web-optimized immersive rendering |
-
-| SQL Chatbot Pack | |
-|------------------|--|
-| PDF → embeddings → LLM querying pipeline | |
+| Project | Description |
+|--------|-------------|
+| [Spatial Intelligence](https://github.com/Darkwolf007) | Geospatial housing prediction system using Dubai datasets |
+| [Immersive Mahabalipuram](https://github.com/Darkwolf007) | Photogrammetry + gaussian splatting for web |
+| [SQL Chatbot Pack](https://github.com/Darkwolf007/sql_chatbot_pack) | PDF to embeddings to LLM query pipeline |
 
 ---
 
 ### Work in Progress
 
-| CGALWrapper | Modular Fabrication Toolkit |
-|-------------|----------------------------|
-| CGAL integration for Grasshopper | Parametric fabrication system |
-| Native geometry workflows (C++ / C# interop) | Robotic assembly pipelines |
+| Project | Description |
+|--------|-------------|
+| [CGALWrapper](https://github.com/Darkwolf007/CGALWrapper) | Native CGAL integration for Grasshopper workflows |
+| [Modular Fabrication Toolkit](https://github.com/Darkwolf007) | Parametric system for robotic fabrication |
 
 ---
 
 ## Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&theme=default&hide_title=true&bg_color=ffffff&text_color=444444&icon_color=666666&border_color=dddddd" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&hide_title=true&count_private=true&bg_color=ffffff&text_color=444444&border_color=dddddd" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&theme=default&bg_color=ffffff&text_color=444444&border_color=dddddd"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&bg_color=ffffff&text_color=444444&border_color=dddddd" />
 </p>
 
 ---
@@ -53,7 +50,7 @@ Git · Docker · Azure DevOps · REST APIs
 ## Activity
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=minimal&bg_color=ffffff&color=555555&line=888888&point=aaaaaa&area=false"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=minimal&bg_color=ffffff&color=555555&line=888888&point=aaaaaa&area=false" />
 </p>
 
 ---
@@ -64,11 +61,10 @@ Computational Geometry
 AEC Automation  
 Digital Fabrication  
 Spatial Data Systems  
-Real-time / Immersive Environments  
+Real-time Systems  
 
 ---
 
 ## Contact
 
-Open to collaboration on research, tools, and applied computational design.
-``
+Open to collaboration on research and applied computational design.
