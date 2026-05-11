@@ -54,7 +54,7 @@ mindmap
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://www.citypng.com/public/uploads/small/11662218450q0z7kq5n7u8mlklbtohpb0cmlfs0vsqfdz2ydb7kjoqk2rm4gyshnlkwxg9hv2dzvnytbvvh7ywxn3jvvwrpcvv0a2sos4vneugy.png" width="30"/>
+  <img src="https://user-images.githubusercontent.com/54688438/74624141-54609400-5115-11ea-88d2-c1428bac6bdf.png" width="30"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/shylesh_dw/" target="_blank">
