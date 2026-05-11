@@ -45,16 +45,8 @@ mindmap
 
 <p align="left">
 
-<a href="https://openprocessing.org/@u204730#sketches" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/code.png"/>
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/shyleshkumar007/" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/shylesh_dw/" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://shylesh-kumar.netlify.app/" target="_blank">
@@ -62,8 +54,17 @@ mindmap
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/15527/15527363.png" width="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/15527/15527365.png"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/shylesh_dw/" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://openprocessing.org/@u204730#sketches" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968238.png"/>
 </a>
+
 </p>
 
 ## Work
