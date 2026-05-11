@@ -70,6 +70,14 @@ Photogrammetry + Gaussian splatting optimized for web rendering
 
 ---
 
+## 🟩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=tokyo-night"/>
+</p>
+
+---
+
 ## 🧠 Focus Areas
 
 - Computational Geometry  
