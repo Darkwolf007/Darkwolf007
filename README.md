@@ -25,7 +25,6 @@ Git · Docker · Azure DevOps · REST APIs
 | https://github.com/Darkwolf007 | Modular Fabrication Toolkit — parametric system for robotic fabrication | Work in Progress | C# · Grasshopper |
 
 ---
-
 ## Stats
 
 <p align="left">
