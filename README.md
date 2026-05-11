@@ -45,28 +45,26 @@ Computational Geometry · AEC Automation · Digital Fabrication · Computational
 <p align="left">
 
 <a href="https://openprocessing.org/@u204730#sketches" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="30" />
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shyleshkumar007/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/shylesh_dw/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://shylesh-kumar.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="30" />
-</a>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="30" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" width="30" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" height="30" width="40"/>
 </a>
 
 </p>
-
-
 
 ## Work
 
