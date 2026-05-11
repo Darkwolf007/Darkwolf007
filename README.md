@@ -40,15 +40,32 @@ mindmap
 **Focus**  
 Computational Geometry · AEC Automation · Digital Fabrication · Spatial Data Systems · Real-time Systems  
 
-**Contact**  
-<h3 align="left">Connect with me:</h3>
+## Connect
+
 <p align="left">
-<a href="https://codepen.io/https://openprocessing.org/@u204730#sketches" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://openprocessing.org/@u204730#sketches" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shyleshkumar007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyleshkumar007/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shylesh_dw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shylesh_dw/" height="30" width="40" /></a>
+
+<a href="https://openprocessing.org/@u204730#sketches" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="32" />
+</a>
+
+<a href="https://www.linkedin.com/in/shyleshkumar007/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
+</a>
+
+<a href="https://www.instagram.com/shylesh_dw/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" />
+</a>
+
+<a href="https://shylesh-kumar.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="32" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" width="32" />
+</a>
+
 </p>
----
-``
+
 
 ## Work
 
