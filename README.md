@@ -39,11 +39,7 @@ mindmap
 
 ## Focus
 
-> **Computational Geometry**  
-> **AEC Automation**  
-> **Digital Fabrication**  
-> **Computational Design**  
-> **ML Systems**
+> **Computational Geometry · AEC Automation · Digital Fabrication · Computational Design · ML Systems**
 
 ## Connect
 
@@ -66,7 +62,7 @@ mindmap
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/upwork.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png" width="30"/>
 </a>
 
 </p>
