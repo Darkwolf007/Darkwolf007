@@ -5,12 +5,11 @@ Architect-turned-developer focused on computational design, geometry, and automa
 
 ---
 
-## Tools
+## Overview
 
-C# · Python · RhinoCommon · GH Python · Node.js  
-Grasshopper · Rhino · Revit API · APS · Unity  
-CGAL · OpenMesh · Geometry Central · OpenCV  
-Git · Docker · Azure DevOps · REST APIs  
+| Tools | Focus | Contact |
+|------|-------|---------|
+| C# · Python · RhinoCommon · GH Python · Node.js<br>Grasshopper · Rhino · Revit API · APS · Unity<br>CGAL · OpenMesh · Geometry Central · OpenCV<br>Git · Docker · Azure DevOps · REST APIs | Computational Geometry<br>AEC Automation<br>Digital Fabrication<br>Spatial Data Systems<br>Real-time Systems | [Personal Site](https://shylesh-kumar.netlify.app/)<br>[LinkedIn](https://www.linkedin.com/in/shyleshkumar007/)<br>[Upwork](https://www.upwork.com/freelancers/~012a5d23186dc641eb) |
 
 ---
 
@@ -19,7 +18,7 @@ Git · Docker · Azure DevOps · REST APIs
 | Name | Description | Link | Status | Tech Stack |
 |-----|-------------|------|--------|------------|
 | Spatial Intelligence | Geospatial housing prediction system using Dubai datasets | [Link](https://github.com/Darkwolf007/Spatial_Intelligence_RealEstate) | Completed | Python · GIS · Data |
-| Immersive Mahabalipuram | Photogrammetry + gaussian splatting optimized for web | [Link](https://github.com/Darkwolf007) | Completed | Threejs · WebGL · SplatJS |
+| Immersive Mahabalipuram | Photogrammetry + gaussian splatting optimized for web | [Link](https://github.com/Darkwolf007) | Completed | Three.js · WebGL · SplatJS |
 | SQL Chatbot Pack | PDF → embeddings → LLM-powered query pipeline | [Link](https://github.com/Darkwolf007/sql_chatbot_pack) | Completed | Python · LLM · Vector DB |
 | CGALWrapper | Native CGAL integration in Grasshopper via C++/C# interop | [Link](https://github.com/Darkwolf007/CGALWrapper) | Work in Progress | C++ · C# · Rhino |
 | Modular Fabrication Toolkit | Parametric system for robotic fabrication workflows | [Link](https://github.com/Darkwolf007) | Work in Progress | C# · Grasshopper |
@@ -29,28 +28,14 @@ Git · Docker · Azure DevOps · REST APIs
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=github-dark" />
 </p>
+
+---
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=github-dark&bg_color=00000000&color=00aa55&line=00cc66&point=00ff88&area=false" />
-
----
-
-## Focus
-
-Computational Geometry  
-AEC Automation  
-Digital Fabrication  
-Spatial Data Systems  
-Real-time Systems  
-
----
-
-## Contact
-
-[Personal Site](https://shylesh-kumar.netlify.app/)  
-[LinkedIn](https://www.linkedin.com/in/shyleshkumar007/)  
-[Upwork](https://www.upwork.com/freelancers/~012a5d23186dc641eb)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=github-dark&bg_color=00000000&color=00aa55&line=00cc66&point=00ff88&area=false" />
+</p>
+``
