@@ -37,14 +37,13 @@ mindmap
 
 ## Overview
 
-**Focus**  
-<p style="background-color:#f2f2f2; color:#333333; padding:16px; border-radius:6px; font-size:16px;">
-Computational Geometry
-AEC Automation
-Digital Fabrication
-Computational Design
-ML System
-</p>
+## Focus
+
+> **Computational Geometry**  
+> **AEC Automation**  
+> **Digital Fabrication**  
+> **Computational Design**  
+> **ML Systems**
 
 ## Connect
 
