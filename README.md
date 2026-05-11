@@ -29,7 +29,7 @@ Git · Docker · Azure DevOps · REST APIs
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=grey" />
+  <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=github_dark" />
 </p>
 
 ## Activity
