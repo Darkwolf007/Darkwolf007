@@ -56,15 +56,6 @@ Photogrammetry + Gaussian splatting optimized for web rendering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=tokyonight" />
 </p>
 
