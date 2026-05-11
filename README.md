@@ -1,101 +1,74 @@
-# Hi, I'm Shylesh 👋
-**Computational Designer | AEC Technologist | Architect**
+# Shylesh Kumar
+Computational Designer — AEC Technologist — Architect  
 
-I’m an architect-turned-developer with a Master's in Parametric Design, specializing in **data-driven, geometry-intensive, and automation-focused solutions** for the AEC industry — from digital fabrication to immersive applications.
-
----
-
-## 🔧 Tools & Technologies
-
-### 💻 Programming & Scripting  
-`C#` • `Python` • `RhinoCommon` • `GH Python` • `Node.js`
-
-### 🏗 Design & Simulation  
-`Grasshopper` • `Rhino 3D` • `Revit API` • `Autodesk Platform Services (APS)` • `Unity`
-
-### 📐 Geometry & Algorithms  
-`CGAL` • `Geometry Central` • `OpenMesh` • `MeshLib` • `OpenCV`
-
-### ☁️ Cloud & DevOps  
-`Git` • `GitHub Actions` • `Azure DevOps` • `Docker` • `REST APIs`
+Architect-turned-developer focused on computational design, geometry, and automation workflows for the AEC industry.
 
 ---
 
-## ✅ Completed Projects
+## Tools
 
-### 🧮 CGALWrapper  
-Advanced CGAL integration for Grasshopper using custom DLLs and P/Invoke  
-🔗 https://github.com/Darkwolf007/CGALWrapper  
-
----
-
-### 🤖 sql_chatbot_pack  
-PDF → semantic embeddings → LLM-powered chatbot pipeline  
-🔗 https://github.com/Darkwolf007/sql_chatbot_pack  
+C# · Python · RhinoCommon · GH Python · Node.js  
+Grasshopper · Rhino · Revit API · APS · Unity  
+CGAL · OpenMesh · Geometry Central · OpenCV  
+Git · Docker · Azure DevOps · REST APIs  
 
 ---
 
-### 🧩 Modular Fabrication Toolkit  
-Parametric system for robotic fabrication-ready components  
-🔗 https://github.com/Darkwolf007/modular-fabrication-toolkit  
+## Work
+
+### Completed
+
+| Spatial Intelligence | Immersive Mahabalipuram |
+|---------------------|-------------------------|
+| Geospatial housing prediction system | Photogrammetry + Gaussian splatting |
+| Dubai housing dataset analysis | Web-optimized immersive rendering |
+
+| SQL Chatbot Pack | |
+|------------------|--|
+| PDF → embeddings → LLM querying pipeline | |
 
 ---
 
-## 🚧 Work In Progress (WIP)
+### Work in Progress
 
-### 🏙 Spatial Intelligence in Real Estate  
-Geospatial variance-based housing price prediction model for Dubai  
-
----
-
-### 🌐 Immersive Mahabalipuram  
-Photogrammetry + Gaussian splatting optimized for web rendering  
+| CGALWrapper | Modular Fabrication Toolkit |
+|-------------|----------------------------|
+| CGAL integration for Grasshopper | Parametric fabrication system |
+| Native geometry workflows (C++ / C# interop) | Robotic assembly pipelines |
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&theme=default&hide_title=true&bg_color=ffffff&text_color=444444&icon_color=666666&border_color=dddddd" height="120"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&theme=default&bg_color=ffffff&text_color=444444&border_color=dddddd"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Languages
+## Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&theme=tokyonight" height="180"/>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=minimal&bg_color=ffffff&color=555555&line=888888&point=aaaaaa&area=false"/>
 </p>
 
 ---
 
-## 🟩 Contribution Graph
+## Focus
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=tokyo-night"/>
-</p>
-
----
-
-## 🧠 Focus Areas
-
-- Computational Geometry  
-- AEC Automation  
-- Digital Fabrication  
-- Spatial Intelligence  
-- Immersive Web & Real-time Systems  
+Computational Geometry  
+AEC Automation  
+Digital Fabrication  
+Spatial Data Systems  
+Real-time / Immersive Environments  
 
 ---
 
-## 🤝 Let’s Collaborate
+## Contact
 
-If you're exploring the edge of **computation + spatial design**, I’m always open to collaborate.
-
-📬 Reach out via GitHub or LinkedIn  
-
----
-
-## ⚡ Note
-
-Some WIP projects are part of ongoing research and will be published soon.
+Open to collaboration on research, tools, and applied computational design.
+``
