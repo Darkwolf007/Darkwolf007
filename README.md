@@ -54,7 +54,7 @@ mindmap
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/15527/15527365.png"/>
+  <img src="https://www.citypng.com/public/uploads/small/11662218450q0z7kq5n7u8mlklbtohpb0cmlfs0vsqfdz2ydb7kjoqk2rm4gyshnlkwxg9hv2dzvnytbvvh7ywxn3jvvwrpcvv0a2sos4vneugy.png" width="30"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/shylesh_dw/" target="_blank">
@@ -62,7 +62,7 @@ mindmap
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://openprocessing.org/@u204730#sketches" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968238.png"/>
+  <img src="https://img.icons8.com/ios-filled/30/ffffff/javascript.png"/>
 </a>
 
 </p>
