@@ -62,9 +62,8 @@ mindmap
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png" width="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/15527/15527363.png" width="30"/>
 </a>
-
 </p>
 
 ## Work
