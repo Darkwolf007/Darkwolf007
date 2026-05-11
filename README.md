@@ -18,11 +18,11 @@ Git · Docker · Azure DevOps · REST APIs
 
 | Name | Description | Link | Status | Tech Stack |
 |-----|-------------|------|--------|------------|
-| Spatial Intelligence | Geospatial housing prediction system using Dubai datasets | [Repository](https://github.com/Darkwolf007) | Completed | Python · GIS · Data |
-| Immersive Mahabalipuram | Photogrammetry + gaussian splatting optimized for web | [Repository](https://github.com/Darkwolf007) | Completed | Unity · WebGL · 3D |
-| SQL Chatbot Pack | PDF → embeddings → LLM-powered query pipeline | [Repository](https://github.com/Darkwolf007/sql_chatbot_pack) | Completed | Python · LLM · Vector DB |
-| CGALWrapper | Native CGAL integration in Grasshopper via C++/C# interop | [Repository](https://github.com/Darkwolf007/CGALWrapper) | Work in Progress | C++ · C# · Rhino |
-| Modular Fabrication Toolkit | Parametric system for robotic fabrication workflows | [Repository](https://github.com/Darkwolf007) | Work in Progress | C# · Grasshopper |
+| Spatial Intelligence | Geospatial housing prediction system using Dubai datasets | [Link](https://github.com/Darkwolf007/Spatial_Intelligence_RealEstate) | Completed | Python · GIS · Data |
+| Immersive Mahabalipuram | Photogrammetry + gaussian splatting optimized for web | [Link](https://github.com/Darkwolf007) | Completed | Threejs · WebGL · SplatJS |
+| SQL Chatbot Pack | PDF → embeddings → LLM-powered query pipeline | [Link](https://github.com/Darkwolf007/sql_chatbot_pack) | Completed | Python · LLM · Vector DB |
+| CGALWrapper | Native CGAL integration in Grasshopper via C++/C# interop | [Link](https://github.com/Darkwolf007/CGALWrapper) | Work in Progress | C++ · C# · Rhino |
+| Modular Fabrication Toolkit | Parametric system for robotic fabrication workflows | [Link](https://github.com/Darkwolf007) | Work in Progress | C# · Grasshopper |
 
 ---
 
