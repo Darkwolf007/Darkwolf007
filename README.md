@@ -38,30 +38,36 @@ mindmap
 ## Overview
 
 **Focus**  
-Computational Geometry · AEC Automation · Digital Fabrication · Computational Design · ML System
+<p style="background-color:#f2f2f2; color:#333333; padding:16px; border-radius:6px; font-size:16px;">
+Computational Geometry
+AEC Automation
+Digital Fabrication
+Computational Design
+ML System
+</p>
 
 ## Connect
 
 <p align="left">
 
 <a href="https://openprocessing.org/@u204730#sketches" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/code.png"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shyleshkumar007/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/shylesh_dw/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://shylesh-kumar.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="30" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.upwork.com/freelancers/~012a5d23186dc641eb" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" height="30" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/upwork.png"/>
 </a>
 
 </p>
