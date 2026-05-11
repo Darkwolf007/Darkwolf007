@@ -3,8 +3,6 @@
 
 I’m an architect-turned-developer with a Master's in Parametric Design, specializing in **data-driven, geometry-intensive, and automation-focused solutions** for the AEC industry — from digital fabrication to immersive applications.
 
-I work at the intersection of **design, computation, and technology**.
-
 ---
 
 ## 🔧 Tools & Technologies
@@ -23,43 +21,43 @@ I work at the intersection of **design, computation, and technology**.
 
 ---
 
-## 🔩 Key Projects
+## ✅ Completed Projects
 
 ### 🧮 CGALWrapper  
-Advanced geometry workflows in Grasshopper using CGAL via custom DLLs + P/Invoke  
-🔗 https://github.com/YOUR_USERNAME/CGALWrapper  
-
----
-
-### 🏙 Spatial Intelligence in Real Estate  
-Geospatial variance-based housing price prediction model  
-🔗 https://github.com/YOUR_USERNAME/real-estate-spatial-intelligence  
+Advanced CGAL integration for Grasshopper using custom DLLs and P/Invoke  
+🔗 https://github.com/Darkwolf007/CGALWrapper  
 
 ---
 
 ### 🤖 sql_chatbot_pack  
-Convert PDF datasets into semantic embeddings and query using LLMs  
-🔗 https://github.com/YOUR_USERNAME/sql_chatbot_pack  
+PDF → semantic embeddings → LLM-powered chatbot pipeline  
+🔗 https://github.com/Darkwolf007/sql_chatbot_pack  
 
 ---
 
 ### 🧩 Modular Fabrication Toolkit  
-Parametric system for generating robotic fabrication-ready components  
-🔗 https://github.com/YOUR_USERNAME/modular-fabrication-toolkit  
+Parametric system for robotic fabrication-ready components  
+🔗 https://github.com/Darkwolf007/modular-fabrication-toolkit  
+
+---
+
+## 🚧 Work In Progress (WIP)
+
+### 🏙 Spatial Intelligence in Real Estate  
+Geospatial variance-based housing price prediction model for Dubai  
 
 ---
 
 ### 🌐 Immersive Mahabalipuram  
-Photogrammetry + Gaussian splatting web experience  
-🔗 https://github.com/YOUR_USERNAME/immersive-mahabalipuram  
+Photogrammetry + Gaussian splatting optimized for web rendering  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -67,29 +65,29 @@ Photogrammetry + Gaussian splatting web experience
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Darkwolf007&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Areas of Interest
+## 🧠 Focus Areas
 
 - Computational Geometry  
 - AEC Automation  
 - Digital Fabrication  
-- Spatial Data Intelligence  
-- Immersive Web / Real-time Engines  
+- Spatial Intelligence  
+- Immersive Web & Real-time Systems  
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let’s Collaborate
 
-If you're building tools, research, or products at the edge of **computation and spatial design**, let’s connect.
+If you're exploring the edge of **computation + spatial design**, I’m always open to collaborate.
 
 📬 Reach out via GitHub or LinkedIn  
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Note
 
-I love bridging **heavy geometry algorithms with real-world AEC workflows** 🚀
+Some WIP projects are part of ongoing research and will be published soon.
