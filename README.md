@@ -16,33 +16,27 @@ Git · Docker · Azure DevOps · REST APIs
 
 ## Work
 
-| Project | Description | Status | Language / Stack |
-|--------|-------------|--------|------------------|
-| https://github.com/Darkwolf007 | Spatial Intelligence — geospatial housing prediction system using Dubai datasets | Completed | Python · GIS · Data |
-| https://github.com/Darkwolf007 | Immersive Mahabalipuram — photogrammetry + gaussian splatting (web) | Completed | Unity · WebGL · 3D |
-| https://github.com/Darkwolf007/sql_chatbot_pack | SQL Chatbot — PDF to embeddings to LLM query pipeline | Completed | Python · LLM · Vector DB |
-| https://github.com/Darkwolf007/CGALWrapper | CGALWrapper — CGAL integration in Grasshopper via native interop | Work in Progress | C++ · C# · Rhino |
-| https://github.com/Darkwolf007 | Modular Fabrication Toolkit — parametric system for robotic fabrication | Work in Progress | C# · Grasshopper |
+| Name | Description | Link | Status | Tech Stack |
+|-----|-------------|------|--------|------------|
+| Spatial Intelligence | Geospatial housing prediction system using Dubai datasets | [Repository](https://github.com/Darkwolf007) | Completed | Python · GIS · Data |
+| Immersive Mahabalipuram | Photogrammetry + gaussian splatting optimized for web | [Repository](https://github.com/Darkwolf007) | Completed | Unity · WebGL · 3D |
+| SQL Chatbot Pack | PDF → embeddings → LLM-powered query pipeline | [Repository](https://github.com/Darkwolf007/sql_chatbot_pack) | Completed | Python · LLM · Vector DB |
+| CGALWrapper | Native CGAL integration in Grasshopper via C++/C# interop | [Repository](https://github.com/Darkwolf007/CGALWrapper) | Work in Progress | C++ · C# · Rhino |
+| Modular Fabrication Toolkit | Parametric system for robotic fabrication workflows | [Repository](https://github.com/Darkwolf007) | Work in Progress | C# · Grasshopper |
 
 ---
 
 ## Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&hide_title=true&count_private=true&bg_color=ffffff&text_color=444444&border_color=dddddd" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Darkwolf007&show_icons=false&hide_title=true&count_private=true&bg_color=ffffff&text_color=444444&border_color=dddddd" />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&bg_color=ffffff&text_color=444444&border_color=dddddd" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwolf007&layout=compact&bg_color=ffffff&text_color=444444&border_color=dddddd" />
 
 ---
 
 ## Activity
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=minimal&bg_color=ffffff&color=555555&line=888888&point=aaaaaa&area=false" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwolf007&theme=minimal&bg_color=ffffff&color=555555&line=888888&point=aaaaaa&area=false" />
 
 ---
 
@@ -58,11 +52,7 @@ Real-time Systems
 
 ## Contact
 
-Personal Site  
-https://shylesh-kumar.netlify.app/  
-
-LinkedIn  
-https://www.linkedin.com/in/shyleshkumar007/  
-
-Upwork  
-https://www.upwork.com/freelancers/~012a5d23186dc641eb  
+[Personal Site](https://shylesh-kumar.netlify.app/)  
+[LinkedIn](https://www.linkedin.com/in/shyleshkumar007/)  
+[Upwork](https://www.upwork.com/freelancers/~012a5d23186dc641eb)
+``
