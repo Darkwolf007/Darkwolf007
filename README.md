@@ -70,6 +70,7 @@ mindmap
 
 | Name | Description | Link | Status | Tech Stack |
 |-----|-------------|------|--------|------------|
+| Detour - Infrared Hackathon | Detour transforms pedestrian navigation by prioritizing human requirement over raw proximity | https://github.com/Darkwolf007/detour_infrared_hackathon | Completed | Python · Infrared Cities SDK · React |
 | Spatial Intelligence | Geospatial housing prediction system using Dubai datasets | https://github.com/Darkwolf007/Spatial_Intelligence_RealEstate | Completed | Python · GIS · Data |
 | Immersive Mahabalipuram | Photogrammetry + gaussian splatting optimized for web | https://github.com/Darkwolf007 | Completed | Three.js · WebGL · SplatJS |
 | SQL Chatbot Pack | PDF → embeddings → LLM-powered query pipeline | https://github.com/Darkwolf007/sql_chatbot_pack | Completed | Python · LLM · Vector DB |
