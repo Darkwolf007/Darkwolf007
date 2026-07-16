@@ -72,7 +72,7 @@ mindmap
 |-----|-------------|------|--------|------------|
 | Detour - Infrared Hackathon | Detour transforms pedestrian navigation by prioritizing human requirement over raw proximity | https://github.com/Darkwolf007/detour_infrared_hackathon | Completed | Python · Infrared Cities SDK · React |
 | Spatial Intelligence | Geospatial housing prediction system using Dubai datasets | https://github.com/Darkwolf007/Spatial_Intelligence_RealEstate | Completed | Python · GIS · Data |
-| Immersive Mahabalipuram | Photogrammetry + gaussian splatting optimized for web | https://github.com/Darkwolf007 | Completed | Three.js · WebGL · SplatJS |
+| Immersive Mahabalipuram | Photogrammetry + gaussian splatting optimized for web | https://darkwolf007.github.io/mahabalipuram_GassianSpaltting/ | Completed | Three.js · WebGL · SplatJS |
 | SQL Chatbot Pack | PDF → embeddings → LLM-powered query pipeline | https://github.com/Darkwolf007/sql_chatbot_pack | Completed | Python · LLM · Vector DB |
 | CGALWrapper | Native CGAL integration in Grasshopper via C++/C# interop | https://github.com/Darkwolf007/CGALWrapper | Work in Progress | C++ · C# · Rhino |
 | Modular Fabrication Toolkit | Parametric system for robotic fabrication workflows | https://github.com/Darkwolf007 | Work in Progress | C# · Grasshopper |
